@@ -18,6 +18,9 @@
         rgba($color-primary-dark, 0.8)), 
         url(../../img/nat-4.jpg);
     background-size: cover;
+    - object-fit
+    - filter
+    - backface-visibility: hidden;
 
 ### SASS Mixings
 
